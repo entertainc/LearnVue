@@ -9,9 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "uuid": "^9.0.0",
     "vue": "^3.2.41"
   },
   "devDependencies": {
+    "@types/uuid": "^8.3.4",
     "@typescript-eslint/eslint-plugin": "^5.44.0",
     "@typescript-eslint/parser": "^5.44.0",
     "@vitejs/plugin-vue": "^3.2.0",
